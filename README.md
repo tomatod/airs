@@ -9,6 +9,7 @@ Airs is CLI tool for search AWS IP ranges. When you check error log, Haven't you
 ```
 go get github.com/tomatod/airs
 ```
+Also, you can get [execute binary](https://github.com/tomatod/airs/releases)
 
 ## Usage
 ```
